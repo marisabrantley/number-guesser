@@ -16,7 +16,7 @@ Write JavaScript functions to power a small guessing game.
 
 ## Launch
 
-Play the Number Guesser Game here: https://marisabrantley.github.io/workaround-explorer/
+Play the Number Guesser Game here: https://marisabrantley.github.io/number-guesser/
 
 ## Class
 *Codecademy/Pro, Front-End Engineer Path*
